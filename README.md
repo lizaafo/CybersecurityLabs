@@ -19,8 +19,8 @@ This repository contains laboratory assignments, cyber threat intelligence (CTI)
 
 * **Topic:** Empirical analysis of honeypot exploitation telemetry (**PHP2Shell / CVE-2026-109618**).
 * **Deliverables:**
-  * **[`Lab1_PHP2Shell_Report.docx`](labs/lab1/Lab1_PHP2Shell_Report.docx)** — Formal laboratory submission document.
-  * **[`README.md`](labs/lab1/README.md)** — Interactive laboratory report with native Mermaid diagrams and evidence tables.
+  * **[`lab1.md`](labs/lab1/lab1.md)** — Reviewed laboratory submission in the required Markdown format.
+  * **[`README.md`](labs/lab1/README.md)** — Laboratory entry page and link to the submission.
   * **[`attack_flow.png`](labs/lab1/attack_flow.png)** — Attack sequence diagram.
 * **Key MITRE ATT&CK Techniques Mapped:**
   * Initial Access: Exploit Public-Facing Application (`T1190`)
