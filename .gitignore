@@ -1,0 +1,16 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Office temporary files
+~$*.docx
+~$*.pptx
+*.tmp
+
+# Local course materials (kept locally, excluded from repository)
+course_materials/
+
+# Antigravity chat backup & cache
+antigravity_chat_backup/
+.system_generated/
+scratch/
