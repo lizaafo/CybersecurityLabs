@@ -3,6 +3,7 @@
 
 **Course:** AI-Enhanced Cybersecurity (HIT)<br>
 **Group Members:** Elizabetha Afonin<br>
+**Report preparation:** Prepared with Codex assistance.<br>
 **Submission Date:** 28 October 2026<br>
 **Last Reviewed:** 4 November 2026<br>
 
