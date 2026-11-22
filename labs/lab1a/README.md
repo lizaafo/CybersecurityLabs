@@ -9,5 +9,4 @@
 | State | Baseline | C1 | C2 | C3 | C4 |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Findings | 2 | 1 | 1 | 2 | 3 |
-
-The report was prepared with Codex assistance. The laboratory was run locally on macOS using zsh and Docker Desktop instead of Windows PowerShell, using the unchanged [course project at commit 1c8bf0a](https://github.com/melofon/HIT-ai-cybersecurity-labs/tree/1c8bf0a75b42660988794b5df4a0001d0579632c/labs/lab1a-mitre-soc). The simulator was not used. The baseline was restored and containers were stopped after collection.
+The laboratory was run locally on macOS using zsh and Docker Desktop instead of Windows PowerShell, using the unchanged [course project at commit 1c8bf0a](https://github.com/melofon/HIT-ai-cybersecurity-labs/tree/1c8bf0a75b42660988794b5df4a0001d0579632c/labs/lab1a-mitre-soc). The simulator was not used. The baseline was restored and containers were stopped after collection.
