@@ -6,4 +6,3 @@ Last reviewed: **4 November 2026**. The submission includes a dated update on co
 
 Course requirements: [Lab 1 — CTI Report Mapping to MITRE ATT&CK](https://github.com/melofon/HIT-ai-cybersecurity-labs/blob/main/labs/lab1%20Cyber%20Threat%20Intelligence/README.md).
 
-The report was prepared with Codex assistance and analyzes published observations.
