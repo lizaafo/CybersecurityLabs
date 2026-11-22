@@ -2,8 +2,7 @@
 ## Lab 1 | CTI Evidence, MITRE ATT&CK Mapping, and SOC Investigation
 
 **Course:** AI-Enhanced Cybersecurity (HIT)<br>
-**Group Members:** Elizabetha Afonin<br>
-**Report preparation:** Prepared with Codex assistance.<br>
+**Student:** Elizabetha Afonin<br>
 **Submission Date:** 28 October 2026<br>
 **Last Reviewed:** 4 November 2026<br>
 
@@ -17,7 +16,7 @@
 
 > [!NOTE]
 > **Scope & Methodological Boundary:**<br>
-> This report analyzes published observational data from instrumented honeypots, with vulnerability context from [[7–14]](#7-references). The dated update distinguishes later campaign reporting from the selected honeypot evidence. It does not claim that our group executed the exploit or independently validated the underlying raw packet captures. All MITRE ATT&CK classifications, confidence ratings, and proposed SOC operational workflows represent our own analytical evaluation.
+> This report analyzes published observational data from instrumented honeypots, with vulnerability context from [[7–14]](#7-references). The dated update distinguishes later campaign reporting from the selected honeypot evidence. It does not claim that I executed the exploit or independently validated the underlying raw packet captures. All MITRE ATT&CK classifications, confidence ratings, and proposed SOC operational workflows represent our own analytical evaluation.
 
 ---
 
