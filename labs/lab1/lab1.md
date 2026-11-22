@@ -1,7 +1,7 @@
 # PHP2Shell Attack Analysis
 ## Lab 1 | CTI Evidence, MITRE ATT&CK Mapping, and SOC Investigation
 
-**Course:** AI-Enhanced Cybersecurity (HIT)<br>
+**Course:** Introduction to AI-Based Cybersecurity (HIT)<br>
 **Student:** Elizabetha Afonin<br>
 **Submission Date:** 28 October 2026<br>
 **Last Reviewed:** 4 November 2026<br>
@@ -16,7 +16,7 @@
 
 > [!NOTE]
 > **Scope & Methodological Boundary:**<br>
-> This report analyzes published observational data from instrumented honeypots, with vulnerability context from [[7–14]](#7-references). The dated update distinguishes later campaign reporting from the selected honeypot evidence. It does not claim that I executed the exploit or independently validated the underlying raw packet captures. All MITRE ATT&CK classifications, confidence ratings, and proposed SOC operational workflows represent our own analytical evaluation.
+> This report analyzes published observational data from instrumented honeypots, with vulnerability context from [[7–14]](#7-references). The dated update distinguishes later campaign reporting from the selected honeypot evidence. It does not claim that I executed the exploit or independently validated the underlying raw packet captures. All MITRE ATT&CK classifications, confidence ratings, and proposed SOC operational workflows represent my own analytical evaluation.
 
 ---
 
@@ -26,7 +26,7 @@ The selected report documents PHP2Shell activity against instrumented PHP honeyp
 
 Runtime process evidence demonstrates an Apache worker process spawning `/bin/sh`, which was subsequently followed by host and identity discovery queries (`id`, `hostname`, `uname`). Outbound HTTP connection attempts were also logged. While these observations firmly substantiate initial access, execution, and local discovery, they do not demonstrate an established, persistent command-and-control (C2) channel or the compromise of an enterprise production environment. [[1]](#7-references)
 
-The primary analytical objective for this laboratory is to map each empirically supported behavior to MITRE ATT&CK and determine the exact telemetry a Security Operations Center (SOC) requires before escalating an incident. We treat achieving remote code execution (RCE) as the verified outcome, while the adversary's ultimate objectives remain undetermined.
+The primary analytical objective for this laboratory is to map each empirically supported behavior to MITRE ATT&CK and determine the exact telemetry a Security Operations Center (SOC) requires before escalating an incident. I treat achieving remote code execution (RCE) as the verified outcome, while the adversary's ultimate objectives remain undetermined.
 
 ---
 
