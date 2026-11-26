@@ -2,7 +2,7 @@
 
 **Institution:** Holon Institute of Technology (HIT) — School of Computer Science  
 **Course:** Introduction to AI-Based Cybersecurity | Fall 2026  
-**Instructors:** Dr. Andrei Kojukhov, Mr. Viacheslav Nefedov  
+**Instructors:** Viacheslav Nefedov  
 **Student:** Elizabetha Afonin ([@lizaafo](https://github.com/lizaafo))  
 
 ## Laboratory submissions
